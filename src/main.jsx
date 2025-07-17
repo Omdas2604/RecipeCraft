@@ -6,7 +6,7 @@ import RecipeContext from './context/RecipeContext.jsx';
 
 createRoot(document.getElementById('root')).render(
   <RecipeContext>
-  <BrowserRouter>
+  <BrowserRouter basename='/RecipeCraft/'>
     <App />
     <ToastContainer />
   </BrowserRouter>
