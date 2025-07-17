@@ -1,6 +1,6 @@
 {
   "name": "recipe",
-  "private": false,
+  "private": true,
   "homepage": "https://omdas2604.github.io/RecipeCraft",
   "version": "0.0.0",
   "type": "module",
